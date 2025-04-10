@@ -1,4 +1,10 @@
-# Modulo Three Calculator
+# Policy Reporter - Modulo Three Calculator Exercise
+
+# Developer Bio:
+**Name:**: David Osunkeye 
+**Position**: Full-Stack Developer II
+**Date**: April-04-10
+**Contact**: 647-669-2544 / davidosunkeye@yahoo.com
 
 A React application built with Vite and styled with Tailwind CSS that calculates the remainder (modulo three) of a binary string using a Finite State Machine (FSM). The app features a responsive, full-screen UI with a dynamic greeting ("Good morning", "Good afternoon", or "Good evening") based on the time of day, input validation, and a test results table displayed after valid input.
 
